@@ -1,1 +1,1 @@
-function() {alert('111')}
+function doit2() {alert('111')}
